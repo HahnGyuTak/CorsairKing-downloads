@@ -6,8 +6,8 @@
 
 | 플랫폼 | 버전 | 설치 |
 | --- | --- | --- |
-| Android | **0.1.0 (19)** | [**Download APK**](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest/download/skullking-0.1.0-19-preview-20261026.apk) |
-| iPhone / iPad | **0.1.0 (19)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
+| Android | **0.1.0 (20)** | [**Download APK**](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest/download/skullking-0.1.0-20-preview-20261026.apk) |
+| iPhone / iPad | **0.1.0 (20)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
 
 [최신 릴리스 · 변경 사항 · 파일 검증](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest)
 
@@ -28,9 +28,9 @@ Android 7.0 이상, 64비트 ARM 또는 x86 기기가 필요합니다. 별도 �
 
 ## 친구와 플레이
 
-**Create Room**으로 방을 만들고 초대 코드를 공유하세요. 친구는 **Join Room**에서 코드를 입력하거나 카메라 버튼으로 대기방의 바코드를 읽어 입장합니다. 2–7명이 Ready한 뒤 게임을 시작합니다.
+**Create Room**으로 방을 만들고 초대 코드를 공유하세요. 친구는 **Join Room**에서 코드를 입력하거나 카메라 버튼으로 대기방의 바코드를 읽어 입장합니다. 참가자 2–7명이 모이고 실제 플레이어가 모두 Ready하면 시작합니다. 방장은 **Add Bot**으로 빈자리를 채울 수 있어, 실제 플레이어 한 명과 Bot으로도 시작할 수 있습니다. 만석인 대기방에 사람이 입장하면 가장 먼저 추가한 Bot의 자리를 대신합니다.
 
-19번 Android·iOS에는 서버와 앱의 남은 시간 보정이 반영됐습니다. 타이그리스를 처음 받으면 기본 그림으로 표시하고, 카드 위 원을 누르면 해적·도주 전용 그림으로 전환합니다.
+20번 Android·iOS에는 대기방 Bot이 추가됐습니다. Bot과 탈주 AI는 같은 Bidding·카드 선택 규칙으로 판단하고 자기 차례에 3초를 기다린 뒤 제출합니다. 서버와 앱의 남은 시간 보정을 유지합니다. 타이그리스를 처음 받으면 기본 그림으로 표시하고, 카드 위 원을 누르면 해적·도주 전용 그림으로 전환합니다.
 
 테스트 서버는 현재 개발용 데스크톱에서 운영 중이므로 서버가 꺼지거나 재시작되면 접속이 끊길 수 있습니다. 설치 파일과 이 배포 페이지는 GitHub에서 제공됩니다.
 
