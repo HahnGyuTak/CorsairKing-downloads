@@ -6,8 +6,8 @@
 
 | 플랫폼 | 버전 | 설치 |
 | --- | --- | --- |
-| Android | **0.1.0 (14)** | [**Download APK**](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest/download/skullking-0.1.0-14-preview-20261025.apk) |
-| iPhone / iPad | **0.1.0 (14)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
+| Android | **0.1.0 (16)** | [**Download APK**](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest/download/skullking-0.1.0-16-preview-20261026.apk) |
+| iPhone / iPad | **0.1.0 (16)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
 
 [최신 릴리스 · 변경 사항 · 파일 검증](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest)
 
