@@ -6,8 +6,8 @@
 
 | 플랫폼 | 버전 | 설치 |
 | --- | --- | --- |
-| Android | **0.1.0 (16)** | [**Download APK**](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest/download/skullking-0.1.0-16-preview-20261026.apk) |
-| iPhone / iPad | **0.1.0 (16)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
+| Android | **0.1.0 (17)** | [**Download APK**](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest/download/skullking-0.1.0-17-preview-20261026.apk) |
+| iPhone / iPad | **0.1.0 (17)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
 
 [최신 릴리스 · 변경 사항 · 파일 검증](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest)
 
@@ -28,7 +28,7 @@ Android 7.0 이상, 64비트 ARM 또는 x86 기기가 필요합니다. 별도 �
 
 ## 친구와 플레이
 
-**Create Room**으로 방을 만들고 초대 코드를 공유하세요. 친구는 **Join with Code**로 입장합니다. 2–7명이 Ready한 뒤 게임을 시작합니다.
+**Create Room**으로 방을 만들고 초대 코드를 공유하세요. 친구는 **Join Room**로 입장합니다. 2–7명이 Ready한 뒤 게임을 시작합니다.
 
 테스트 서버는 현재 개발용 데스크톱에서 운영 중이므로 서버가 꺼지거나 재시작되면 접속이 끊길 수 있습니다. 설치 파일과 이 배포 페이지는 GitHub에서 제공됩니다.
 
