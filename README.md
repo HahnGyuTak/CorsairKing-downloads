@@ -6,8 +6,8 @@
 
 | 플랫폼 | 버전 | 설치 |
 | --- | --- | --- |
-| Android | **0.1.0 (24)** | [**Download APK**](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest/download/skullking-0.1.0-24-preview-20261027.apk) |
-| iPhone / iPad | **0.1.0 (24)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
+| Android | **0.1.0 (25)** | [**Download APK**](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest/download/skullking-0.1.0-25-preview-20261027.apk) |
+| iPhone / iPad | **0.1.0 (25)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
 
 [최신 릴리스 · 변경 사항 · 파일 검증](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest)
 
@@ -29,6 +29,8 @@ Android 7.0 이상, 64비트 ARM 또는 x86 기기가 필요합니다. 별도 �
 ## 친구와 플레이
 
 **Create Room**으로 방을 만들고 초대 코드를 공유하세요. 친구는 **Join Room**에서 코드를 입력하거나 카메라 버튼으로 대기방의 바코드를 읽어 입장합니다. 참가자 2–7명이 모이고 실제 플레이어가 모두 Ready하면 시작합니다. 방장은 **Add Bot**으로 빈자리를 채울 수 있어, 실제 플레이어 한 명과 Bot으로도 시작할 수 있습니다. 만석인 대기방에 사람이 입장하면 가장 먼저 추가한 Bot의 자리를 대신합니다.
+
+25번은 대기방 총알자국이 서로 **40% 이상 겹치지 않도록** 배치합니다. 공간이 없으면 총알을 차감하지 않으며, 치유하거나 다른 플레이어에게 사용할 수 있습니다. 방장은 Bot 옆의 **×** 버튼으로 특정 Bot을 제거할 수 있습니다. 참가자가 바뀌면 다시 Ready를 눌러 주세요. 이 기능에는25번 앱으로 업데이트가 필요합니다.
 
 24번은 대기방 도구를 마모 질감의 플로팅 캡슐로 정리했습니다. 총알은 입장당 **10발**이며 아이콘 오른쪽 아래에 남은 수를 표시하고, 치유에는 **∞**를 표시합니다. 나가기는 오른쪽 독립 버튼을 누른 뒤 확인합니다.
 
