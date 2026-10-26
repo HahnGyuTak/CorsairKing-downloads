@@ -6,7 +6,7 @@
 
 | 플랫폼 | 버전 | 설치 |
 | --- | --- | --- |
-| Android | **0.1.0 (17)** | [**Download APK**](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest/download/skullking-0.1.0-17-preview-20261026.apk) |
+| Android | **0.1.0 (18)** | [**Download APK**](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest/download/skullking-0.1.0-18-preview-20261026.apk) |
 | iPhone / iPad | **0.1.0 (17)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
 
 [최신 릴리스 · 변경 사항 · 파일 검증](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest)
@@ -28,7 +28,9 @@ Android 7.0 이상, 64비트 ARM 또는 x86 기기가 필요합니다. 별도 �
 
 ## 친구와 플레이
 
-**Create Room**으로 방을 만들고 초대 코드를 공유하세요. 친구는 **Join Room**로 입장합니다. 2–7명이 Ready한 뒤 게임을 시작합니다.
+**Create Room**으로 방을 만들고 초대 코드를 공유하세요. 친구는 **Join Room**에서 코드를 입력하거나 카메라 버튼으로 대기방의 바코드를 읽어 입장합니다. 2–7명이 Ready한 뒤 게임을 시작합니다.
+
+18번에서는 타이그리스를 처음 받으면 기본 그림으로 표시하고, 카드 위 원을 누르면 해적·도주 전용 그림으로 전환합니다. iOS18은 공개 테스트 준비 중이며 현재 iOS 공개 빌드는17번입니다.
 
 테스트 서버는 현재 개발용 데스크톱에서 운영 중이므로 서버가 꺼지거나 재시작되면 접속이 끊길 수 있습니다. 설치 파일과 이 배포 페이지는 GitHub에서 제공됩니다.
 
