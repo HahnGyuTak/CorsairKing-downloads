@@ -7,7 +7,7 @@
 | 플랫폼 | 버전 | 설치 |
 | --- | --- | --- |
 | Android | **0.1.0 (22)** | [**Download APK**](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest/download/skullking-0.1.0-22-preview-20261026.apk) |
-| iPhone / iPad | **0.1.0 (21)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
+| iPhone / iPad | **0.1.0 (22)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
 
 [최신 릴리스 · 변경 사항 · 파일 검증](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest)
 
@@ -30,7 +30,7 @@ Android 7.0 이상, 64비트 ARM 또는 x86 기기가 필요합니다. 별도 �
 
 **Create Room**으로 방을 만들고 초대 코드를 공유하세요. 친구는 **Join Room**에서 코드를 입력하거나 카메라 버튼으로 대기방의 바코드를 읽어 입장합니다. 참가자 2–7명이 모이고 실제 플레이어가 모두 Ready하면 시작합니다. 방장은 **Add Bot**으로 빈자리를 채울 수 있어, 실제 플레이어 한 명과 Bot으로도 시작할 수 있습니다. 만석인 대기방에 사람이 입장하면 가장 먼저 추가한 Bot의 자리를 대신합니다.
 
-22번 Android는 초대 카메라를 정사각형으로 확대하고 바코드 가이드를 중앙에 맞췄습니다. iOS22는 공개 준비 중입니다. 실제 렌즈의 초점 속도 향상은 아직 측정하지 않았습니다.
+22번 Android는 초대 카메라를 정사각형으로 확대하고 바코드 가이드를 중앙에 맞췄습니다. iOS22도 같은 카메라 업데이트를 제공합니다. 실제 렌즈의 초점 속도 향상은 아직 측정하지 않았습니다.
 
 21번 Android·iOS에는 대기방 총알·치유 도구가 추가됐습니다. 다른 플레이어 상자를 눌러 총알자국을 남기거나 낡은 붕대로 치유할 수 있습니다. 총알은 입장당 5발이며 개수는 화면에 표시하지 않습니다. 치유는 무제한이고 본인 상자에는 두 도구 모두 사용할 수 없습니다.
 
