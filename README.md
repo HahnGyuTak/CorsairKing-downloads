@@ -6,7 +6,7 @@
 
 | 플랫폼 | 버전 | 설치 |
 | --- | --- | --- |
-| Android | **0.1.0 (25)** | [**Download APK**](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest/download/skullking-0.1.0-25-preview-20261027.apk) |
+| Android | **0.1.0 (26)** | [**Download APK**](https://github.com/HahnGyuTak/SkullKing-downloads/releases/download/v0.1.0-build26/skullking-0.1.0-26-preview-20261027.apk) |
 | iPhone / iPad | **0.1.0 (25)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
 
 [최신 릴리스 · 변경 사항 · 파일 검증](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest)
@@ -29,6 +29,8 @@ Android 7.0 이상, 64비트 ARM 또는 x86 기기가 필요합니다. 별도 �
 ## 친구와 플레이
 
 **Create Room**으로 방을 만들고 초대 코드를 공유하세요. 친구는 **Join Room**에서 코드를 입력하거나 카메라 버튼으로 대기방의 바코드를 읽어 입장합니다. 참가자 2–7명이 모이고 실제 플레이어가 모두 Ready하면 시작합니다. 방장은 **Add Bot**으로 빈자리를 채울 수 있어, 실제 플레이어 한 명과 Bot으로도 시작할 수 있습니다. 만석인 대기방에 사람이 입장하면 가장 먼저 추가한 Bot의 자리를 대신합니다.
+
+26번 Android에는 목재 주요 버튼·현재 플레이어 명패·선택 Bidding, 타이그리스 카드 뒤집기, 제출 카드 이동과 잉크 착지, 카드 속 소극장 로딩이 추가됐습니다. 원래 카드 그림과 마모는 유지합니다. iOS26은 Apple 업로드 후 공개 테스트 연결을 기다리고 있어, 현재 공개 iOS는25번입니다. 두 버전은 함께 플레이할 수 있습니다.
 
 25번은 대기방 총알자국이 서로 **40% 이상 겹치지 않도록** 배치합니다. 공간이 없으면 총알을 차감하지 않으며, 치유하거나 다른 플레이어에게 사용할 수 있습니다. 방장은 Bot 옆의 **×** 버튼으로 특정 Bot을 제거할 수 있습니다. 참가자가 바뀌면 다시 Ready를 눌러 주세요. 이 기능에는25번 앱으로 업데이트가 필요합니다.
 
