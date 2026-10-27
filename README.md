@@ -7,7 +7,7 @@
 | 플랫폼 | 버전 | 설치 |
 | --- | --- | --- |
 | Android | **0.1.0 (30)** | [**Download APK**](https://github.com/HahnGyuTak/SkullKing-downloads/releases/download/v0.1.0-build30/skullking-0.1.0-30-preview-20261028.apk) |
-| iPhone / iPad | **0.1.0 (29)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
+| iPhone / iPad | **0.1.0 (30)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
 
 [최신 릴리스 · 변경 사항 · 파일 검증](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest)
 
@@ -30,7 +30,7 @@ Android 7.0 이상, 64비트 ARM 또는 x86 기기가 필요합니다. 별도 �
 
 **Create Room**으로 방을 만들고 초대 코드를 공유하세요. 친구는 **Join Room**에서 코드를 입력하거나 카메라 버튼으로 대기방의 바코드를 읽어 입장합니다. 참가자 2–7명이 모이고 실제 플레이어가 모두 Ready하면 시작합니다. 방장은 **Add Bot**으로 빈자리를 채울 수 있어, 실제 플레이어 한 명과 Bot으로도 시작할 수 있습니다. 만석인 대기방에 사람이 입장하면 가장 먼저 추가한 Bot의 자리를 대신합니다.
 
-30번 Android와 서버·웹을 공개했습니다. 2인 게임은 Graybeard 없이 두 자리로 진행합니다. 모든 카드 뒷면을 1초 보여준 뒤 한 장당 260ms로 연속 공개하며, 첫 카드 공개와 동시에 Bidding이 시작됩니다. 트릭 결과는 타이머 자리에 `{닉네임} Win`으로 3초 표시하고, 라운드 사이는 5초 기다립니다. 화면 구분선 위치는 단계가 바뀌어도 유지됩니다. **iOS30은 Apple 업로드·공개 준비 중이며, 현재 TestFlight에서 설치 가능한 버전은29입니다.** 두 버전은 같은 서버에서 플레이할 수 있습니다.
+30번 Android·iOS와 서버·웹을 공개했습니다. 2인 게임은 Graybeard 없이 두 자리로 진행합니다. 모든 카드 뒷면을 1초 보여준 뒤 한 장당 260ms로 연속 공개하며, 첫 카드 공개와 동시에 Bidding이 시작됩니다. 트릭 결과는 타이머 자리에 `{닉네임} Win`으로 3초 표시하고, 라운드 사이는 5초 기다립니다. 화면 구분선 위치는 단계가 바뀌어도 유지됩니다. **iOS30도 공개 TestFlight에서 설치할 수 있습니다.** 두 버전은 같은 서버에서 플레이할 수 있습니다.
 
 29번 Android·iOS는 플레이어 칸을 내용에 맞게 줄이고 **닉네임·Waiting·Ready를 포함한 칸 전체**에 총알자국을 표시합니다. 보이는 자국의 누적 겹침은 **60% 미만**, 총알은 **10발**이며 공간이 없으면 차감하지 않습니다. Bot 제거 버튼의 터치는 유지합니다. Bot·탈주 AI는 차례마다 **3~5초** 중 한 번 뽑은 시간에 카드를 냅니다. 손패는 **700ms 안에 순서대로 뒤집어 공개**한 다음 전체 **15+n초 Bidding**을 시작합니다. Android 카드에는 원본 그림에서 만든 표시용 사본을 사용해 첫 공개 중 빈 그림이 보이던 문제를 개선했습니다. 29번 공개 당시 앱은 **Android29·iOS29**였으며, 이 문단은 당시 배포 이력입니다.
 
