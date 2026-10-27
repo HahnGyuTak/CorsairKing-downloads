@@ -7,7 +7,7 @@
 | 플랫폼 | 버전 | 설치 |
 | --- | --- | --- |
 | Android | **0.1.0 (29)** | [**Download APK**](https://github.com/HahnGyuTak/SkullKing-downloads/releases/download/v0.1.0-build29/skullking-0.1.0-29-preview-20261027-r5.apk) |
-| iPhone / iPad | **0.1.0 (28)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
+| iPhone / iPad | **0.1.0 (29)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
 
 [최신 릴리스 · 변경 사항 · 파일 검증](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest)
 
@@ -30,9 +30,9 @@ Android 7.0 이상, 64비트 ARM 또는 x86 기기가 필요합니다. 별도 �
 
 **Create Room**으로 방을 만들고 초대 코드를 공유하세요. 친구는 **Join Room**에서 코드를 입력하거나 카메라 버튼으로 대기방의 바코드를 읽어 입장합니다. 참가자 2–7명이 모이고 실제 플레이어가 모두 Ready하면 시작합니다. 방장은 **Add Bot**으로 빈자리를 채울 수 있어, 실제 플레이어 한 명과 Bot으로도 시작할 수 있습니다. 만석인 대기방에 사람이 입장하면 가장 먼저 추가한 Bot의 자리를 대신합니다.
 
-29번 Android는 플레이어 칸을 내용에 맞게 줄이고 **닉네임·Waiting·Ready를 포함한 칸 전체**에 총알자국을 표시합니다. 보이는 자국의 누적 겹침은 **60% 미만**, 총알은 **10발**이며 공간이 없으면 차감하지 않습니다. Bot 제거 버튼의 터치는 유지합니다. Bot·탈주 AI는 차례마다 **3~5초** 중 한 번 뽑은 시간에 카드를 냅니다. 손패는 **700ms 안에 순서대로 뒤집어 공개**한 다음 전체 **15+n초 Bidding**을 시작합니다. Android 카드에는 원본 그림에서 만든 표시용 사본을 사용해 첫 공개 중 빈 그림이 보이던 문제를 개선했습니다. 현재 설치 가능한 앱은 **Android29·iOS28**이며 iOS29 공개 준비도 진행 중입니다. 두 앱은 같은 서버에서 플레이할 수 있습니다.
+29번 Android·iOS는 플레이어 칸을 내용에 맞게 줄이고 **닉네임·Waiting·Ready를 포함한 칸 전체**에 총알자국을 표시합니다. 보이는 자국의 누적 겹침은 **60% 미만**, 총알은 **10발**이며 공간이 없으면 차감하지 않습니다. Bot 제거 버튼의 터치는 유지합니다. Bot·탈주 AI는 차례마다 **3~5초** 중 한 번 뽑은 시간에 카드를 냅니다. 손패는 **700ms 안에 순서대로 뒤집어 공개**한 다음 전체 **15+n초 Bidding**을 시작합니다. Android 카드에는 원본 그림에서 만든 표시용 사본을 사용해 첫 공개 중 빈 그림이 보이던 문제를 개선했습니다. 현재 설치 가능한 앱은 **Android29·iOS29**입니다. iOS29는 공개 TestFlight의 Friends Preview에서 테스트할 수 있습니다. 두 앱은 같은 서버에서 플레이할 수 있습니다.
 
-28번 Android·iOS는 대기방 닉네임과 상태 사이 간격을 줄이고, 게임 시작 시 최소 **3초 로딩 후 전체 Bidding 시간**을 제공합니다. 카드 제출 표시와 실제 카드 이동을 개선합니다. 원래 카드 그림·마모와 목재 UI는 유지합니다. 28번 공개 때 Android28·iOS28을 제공했으며, iOS28은 공개 TestFlight Friends Preview에서 테스트할 수 있습니다. 이 문단은 당시 배포 이력입니다.
+28번 Android·iOS는 대기방 닉네임과 상태 사이 간격을 줄이고, 게임 시작 시 최소 **3초 로딩 후 전체 Bidding 시간**을 제공합니다. 카드 제출 표시와 실제 카드 이동을 개선합니다. 원래 카드 그림·마모와 목재 UI는 유지합니다. 28번 공개 때 Android28·iOS28을 제공했으며, iOS28도 공개 TestFlight Friends Preview에서 제공했습니다. 이 문단은 당시 배포 이력입니다.
 
 27번 Android는 대기방 총알자국의 누적 겹침 면적을 각 자국의 **60% 미만**으로 제한하고, 표시 영역을 **닉네임까지** 넓혔습니다. Waiting·Ready 상태와 Bot 제거 버튼은 자국 영역 밖에 유지합니다. 공간이 없으면 총알을 차감하지 않습니다. Android27 공개 당시 iOS는 **26번**이었고 **iOS27은 공개하지 않았습니다**. 당시 Android27과 iOS26의 함께 플레이를 지원했으며, 해당 표시 영역과 겹침 기준은27번 앱에 적용했습니다.
 
