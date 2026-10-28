@@ -7,9 +7,11 @@
 | 플랫폼 | 버전 | 설치 |
 | --- | --- | --- |
 | Android | **0.1.0 (32)** | [**Download APK**](https://github.com/HahnGyuTak/SkullKing-downloads/releases/download/v0.1.0-build32/corsair-king-0.1.0-32-preview-20261028-r2.apk) |
-| iPhone | **0.1.0 (31)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
+| iPhone | **0.1.0 (32)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
 
 [릴리스 · 변경 사항 · 파일 검증](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest)
+
+Android 32 APK SHA-256: `3aae6fc930647a12650af7e82493b9d607b36cd5b07693c3bc71194434567c68`
 
 ## 설치
 
@@ -19,7 +21,7 @@ iPhone에서는 Apple의 TestFlight 앱을 설치한 뒤 Join TestFlight 링크�
 
 ## 새 이름
 
-앱 이름은 **Corsair King**입니다. 31번부터 카드 표시도 **Davy Jones(데비 존스), Siren(세이렌), Hafgufa(하프구바), MobyDick(모비딕), Surrender(항복), Stowaway(밀항자)**로 바뀝니다. 기존 카드 그림·게임 규칙·앱ID와 저장 데이터는 유지합니다. Android 31과 iOS 31은 같은 서버에서 함께 플레이할 수 있습니다.
+앱 이름은 **Corsair King**입니다. 31번부터 카드 표시도 **Davy Jones(데비 존스), Siren(세이렌), Hafgufa(하프구바), MobyDick(모비딕), Surrender(항복), Stowaway(밀항자)**로 바뀝니다. 기존 카드 그림·게임 규칙·앱ID와 저장 데이터는 유지합니다. Android 32와 iOS 32는 같은 Oracle 서버에서 함께 플레이할 수 있습니다.
 
 ## 친구와 플레이
 
@@ -27,7 +29,7 @@ Create Room으로 방을 만들고 초대 코드를 공유하세요. 친구는 J
 
 30번부터 2인 게임은 두 자리로 진행합니다. 카드 뒷면을 1초 보여준 뒤 한 장당 260ms로 순서대로 공개하고 첫 카드 공개와 함께 Bidding이 시작됩니다. 트릭 결과는 타이머 자리에 3초 표시하고 라운드 사이에는 5초 기다립니다.
 
-게임은 **Oracle Cloud 오사카 서버**에서 운영하며 인터넷이 필요합니다. Android32는 별도 서버 설정 없이 직접 Oracle로 연결합니다. 기존31번 위에 업데이트 설치하면 저장 계정을 유지합니다. 앱을 삭제하지 마세요. iOS32는 Apple 업로드·공개 절차를 진행 중이며, 현재 TestFlight 공개 버전은31번입니다.31번도 호환 연결을 통해 같은 Oracle 방에서 플레이할 수 있습니다. 정식 스토어 출시용1.0.0(33)은 별도로 준비 중입니다.
+게임은 **Oracle Cloud 오사카 서버**에서 운영하며 인터넷이 필요합니다. **Android·iOS 모두 공개 테스트 32번**이며, 서버 주소 입력 없이 직접 Oracle로 연결합니다. 기존 31번 앱을 삭제하지 말고 업데이트하면 저장 계정을 유지합니다. 31번도 호환 연결을 통해 같은 방에 접속할 수 있습니다. 정식 App Store·Google Play 출시 절차는 별도로 진행 중이며, 현재 안내 링크는 공개 테스트 배포입니다.
 
 [개인정보처리방침](https://corsair-king.pages.dev/privacy/) · [지원](https://corsair-king.pages.dev/support/) · [계정 삭제](https://corsair-king.pages.dev/delete/)
 
