@@ -6,7 +6,7 @@
 
 | 플랫폼 | 버전 | 설치 |
 | --- | --- | --- |
-| Android | **0.1.0 (31)** | [**Download APK**](https://github.com/HahnGyuTak/SkullKing-downloads/releases/download/v0.1.0-build31/corsair-king-0.1.0-31-preview-20261028.apk) |
+| Android | **0.1.0 (32)** | [**Download APK**](https://github.com/HahnGyuTak/SkullKing-downloads/releases/download/v0.1.0-build32/corsair-king-0.1.0-32-preview-20261028-r2.apk) |
 | iPhone | **0.1.0 (31)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
 
 [릴리스 · 변경 사항 · 파일 검증](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest)
@@ -27,7 +27,7 @@ Create Room으로 방을 만들고 초대 코드를 공유하세요. 친구는 J
 
 30번부터 2인 게임은 두 자리로 진행합니다. 카드 뒷면을 1초 보여준 뒤 한 장당 260ms로 순서대로 공개하고 첫 카드 공개와 함께 Bidding이 시작됩니다. 트릭 결과는 타이머 자리에 3초 표시하고 라운드 사이에는 5초 기다립니다.
 
-기본 게임 서버로 자동 연결되며 인터넷이 필요합니다. 현재 개발용 데스크톱에서 운영 중이므로 서버가 꺼지거나 재시작되면 접속이 끊길 수 있습니다.
+게임은 **Oracle Cloud 오사카 서버**에서 운영하며 인터넷이 필요합니다. Android32는 별도 서버 설정 없이 직접 Oracle로 연결합니다. 기존31번 위에 업데이트 설치하면 저장 계정을 유지합니다. 앱을 삭제하지 마세요. iOS32는 Apple 업로드·공개 절차를 진행 중이며, 현재 TestFlight 공개 버전은31번입니다.31번도 호환 연결을 통해 같은 Oracle 방에서 플레이할 수 있습니다. 정식 스토어 출시용1.0.0(33)은 별도로 준비 중입니다.
 
 [개인정보처리방침](https://corsair-king.pages.dev/privacy/) · [지원](https://corsair-king.pages.dev/support/) · [계정 삭제](https://corsair-king.pages.dev/delete/)
 
