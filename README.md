@@ -4,32 +4,33 @@
 
 초대 코드로 친구들과 즐기는 2–7인 카드게임. 아래에서 최신 공개 빌드를 설치하세요.
 
-| 플랫폼 | 버전 | 설치 |
+| 플랫폼 | 실제 공개 버전 | 설치 |
 | --- | --- | --- |
-| Android | **1.0.0 (38)** | [**Download APK**](https://github.com/HahnGyuTak/CorsairKing-downloads/releases/download/v1.0.0-build38/corsair-king-1.0.0-38-preview-20261030.apk) |
+| Android | **1.0.0 (39)** | [**Download APK**](https://github.com/HahnGyuTak/CorsairKing-downloads/releases/download/v1.0.0-build39/corsair-king-1.0.0-39-preview-20261030.apk) |
 | iPhone · iPad | **1.0.0 (37)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
 
 [릴리스 · 변경 사항 · 파일 검증](https://github.com/HahnGyuTak/CorsairKing-downloads/releases/latest)
 
-Android 38 APK SHA-256: `2acb040b5f6bec47d2de87510496e2b094704d280d02c14af442c80a8028acc8`
+Android 39 APK SHA-256: `9f1e66c693c5231de1ec7abb5efae4e6b6a77f8afb5951021a34f78cfc8f3159`
 
 ## 설치
 
-Android에서는 Download APK로 내려받은 파일을 열어 설치합니다. 기존 앱이 있으면 **삭제하지 말고 업데이트**로 설치하세요. 공개 32번과 동일한 서명으로 기존 게스트 계정을 승계합니다. 필요하면 파일을 연 브라우저 또는 파일 앱의 설치 권한을 허용합니다. Android 7.0 이상이며 64비트 ARM 또는 x86_64 기기가 필요합니다.
+Android에서는 Download APK로 내려받은 파일을 열어 설치합니다. 기존 앱이 있으면 **삭제하지 말고 업데이트**로 설치하세요. 공개 38번과 동일한 서명으로 기존 게스트 계정을 승계합니다. 필요하면 파일을 연 브라우저 또는 파일 앱의 설치 권한을 허용합니다. Android 7.0 이상이며 64비트 ARM 또는 x86_64 기기가 필요합니다.
 
 iPhone·iPad에서는 Apple의 TestFlight 앱을 설치한 뒤 Join TestFlight 링크로 참여합니다. 사전 기기 등록은 필요하지 않습니다. iPad는 가로·세로 화면을 지원합니다.
 
 ## 최신 업데이트
 
-- Android38: `Team mode` 표기, 각 옵션 설명 창, 테두리 없는 팀 선택 버튼
+- 앱에서 쓰는 이미지를 표시 크기에 맞게 축소해 이미지 파일 합계를 약 78.0MB에서 21.1MB로 줄였습니다. 카드·종이 마모·버튼 질감·소극장 삽화의 크기를 조정하고 중복 포함을 정리했습니다.
+- Android 39 APK: **102,938,073바이트**. 위 이미지 합계와 APK 전체 크기는 서로 다른 수치입니다.
+- `Team mode` 표기, 각 옵션 설명 창, 테두리 없는 팀 선택 버튼
 - 서버: 봇·탈주 AI는 화면의 10초 타이머를 유지하면서 매 턴 2~4초 사이에 제출
-- 종이 토글과 항해 쪽지 UI, 대기방·메뉴·개인전 및 팀전 결과 화면 개선
-- 팀전, 라운드 순서 섞기, 후반 라운드 닉네임 가리기 옵션
+- 종이 토글과 항해 쪽지 UI, 팀전·라운드 순서 섞기·후반 라운드 닉네임 가리기
 - 특수카드 삽화·애니메이션과 현재 트릭 선두 표시
 - 봇 로봇 아이콘, 한국어·영어 규칙, 선택 가능한 햅틱
-- 대기방 총알자국 배치와 게임 시작 소극장 연출 개선
+- 대기방 총알자국과 게임 시작 소극장 연출
 
-**팀전과 새 옵션을 함께 사용할 참가자는 Android38·iOS37 이상으로 업데이트해 주세요.** Android38의 추가 UI 변경은 아직 iOS에 배포되지 않았습니다.
+iOS 39번은 Apple 업로드·검증 진행 중입니다. 현재 설치 가능한 TestFlight 공개 빌드는 37번이며, 39번 공개를 확인한 뒤 이 안내를 갱신합니다.
 
 ## 친구와 플레이
 
