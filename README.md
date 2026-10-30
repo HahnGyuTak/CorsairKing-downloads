@@ -7,7 +7,7 @@
 | 플랫폼 | 실제 공개 버전 | 설치 |
 | --- | --- | --- |
 | Android | **1.0.0 (39)** | [**Download APK**](https://github.com/HahnGyuTak/CorsairKing-downloads/releases/download/v1.0.0-build39/corsair-king-1.0.0-39-preview-20261030.apk) |
-| iPhone · iPad | **1.0.0 (37)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
+| iPhone · iPad | **1.0.0 (39)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
 
 [릴리스 · 변경 사항 · 파일 검증](https://github.com/HahnGyuTak/CorsairKing-downloads/releases/latest)
 
@@ -30,7 +30,7 @@ iPhone·iPad에서는 Apple의 TestFlight 앱을 설치한 뒤 Join TestFlight �
 - 봇 로봇 아이콘, 한국어·영어 규칙, 선택 가능한 햅틱
 - 대기방 총알자국과 게임 시작 소극장 연출
 
-iOS 39번은 Apple 업로드·검증 진행 중입니다. 현재 설치 가능한 TestFlight 공개 빌드는 37번이며, 39번 공개를 확인한 뒤 이 안내를 갱신합니다.
+Android·iOS 모두 1.0.0 (39) 공개 테스트 빌드입니다. iOS 39는 Apple 승인 후 Friends Preview에서 테스트 중(Testing) 상태를 확인했습니다. 정식 App Store 심사 빌드34는 그대로 유지합니다.
 
 ## 친구와 플레이
 
