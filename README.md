@@ -1,15 +1,15 @@
-<p align="center"><img src="assets/icon.png" alt="Corsair King" width="112"></p>
-
 # Corsair King
 
-초대 코드로 친구들과 즐기는 2–7인 카드게임. 현재 공개 테스트 버전입니다.
+## 최신 테스트 빌드
+
+초대 코드로 친구들과 즐기는 2–7인 카드게임. 아래에서 최신 공개 빌드를 설치하세요.
 
 | 플랫폼 | 버전 | 설치 |
 | --- | --- | --- |
-| Android | **1.0.0 (38)** | [**Download APK**](https://github.com/HahnGyuTak/SkullKing-downloads/releases/download/v1.0.0-build38/corsair-king-1.0.0-38-preview-20261030.apk) |
+| Android | **1.0.0 (38)** | [**Download APK**](https://github.com/HahnGyuTak/CorsairKing-downloads/releases/download/v1.0.0-build38/corsair-king-1.0.0-38-preview-20261030.apk) |
 | iPhone · iPad | **1.0.0 (37)** | [**Join TestFlight**](https://testflight.apple.com/join/JmGv7aXB) |
 
-[릴리스 · 변경 사항 · 파일 검증](https://github.com/HahnGyuTak/SkullKing-downloads/releases/latest)
+[릴리스 · 변경 사항 · 파일 검증](https://github.com/HahnGyuTak/CorsairKing-downloads/releases/latest)
 
 Android 38 APK SHA-256: `2acb040b5f6bec47d2de87510496e2b094704d280d02c14af442c80a8028acc8`
 
