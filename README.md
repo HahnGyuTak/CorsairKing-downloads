@@ -2,27 +2,34 @@
 
 ## 앱 다운로드
 
-초대 코드로 친구들과 즐기는 2–7인 카드게임. 최신 테스트 버전 **2.0.0 (42)**를 Android에서 먼저 설치할 수 있습니다.
+초대 코드로 친구들과 즐기는 2–7인 카드게임. 최신 테스트 버전 **2.1.0 (43)**를 Android에서 먼저 설치할 수 있습니다.
 
 | 플랫폼 | 실제 공개 배포 | 설치 |
 | --- | --- | --- |
-| Android | **2.0.0 (42)** · APK | [**Download APK**](https://github.com/HahnGyuTak/CorsairKing-downloads/releases/download/v2.0.0-build42/corsair-king-2.0.0-42-preview-20261106.apk) |
+| Android | **2.1.0 (43)** · APK | [**Download APK**](https://github.com/HahnGyuTak/CorsairKing-downloads/releases/download/v2.1.0-build43/corsair-king-2.1.0-43-preview-20261107.apk) |
 | iPhone · iPad | **1.0.0 (39)** · 공개 테스트 | [**TestFlight 참여**](https://testflight.apple.com/join/JmGv7aXB) |
-| iPhone · iPad | App Store 정식 앱 | [**App Store에서 다운로드**](https://apps.apple.com/kr/app/corsair-king/id6826480808) |
+| iPhone · iPad | **1.0.0 (40)** · App Store 정식 앱 | [**App Store에서 다운로드**](https://apps.apple.com/kr/app/corsair-king/id6826480808) |
 
-iOS **2.0.0 (42)**는 Apple 외부 베타 심사 대기 중입니다. 위 TestFlight 공개 버전과 다르며, 실제 공개가 확인되면 안내를 갱신합니다. App Store 정식 앱은 이번 테스트 배포로 교체하지 않았습니다.
+iOS **2.1.0 (43)**와 **2.0.0 (42)**는 Apple 외부 베타 심사 대기 중이며, 아직 TestFlight에서 설치할 수 없습니다. 현재 실제 공개 TestFlight 버전은 **1.0.0 (39)**입니다. 위 TestFlight 공개 버전과 다르며, 실제 공개가 확인되면 안내를 갱신합니다. App Store 정식 앱은 이번 테스트 배포로 교체하지 않았습니다.
 
-**2.0.0은 새 게임 진행 프로토콜을 사용하는 주 버전 업데이트입니다.** Oracle 서버의 새 대기방·게임 시작에는 최신 앱이 필요합니다. 함께 플레이하는 분들은 같은 최신 테스트 버전으로 업데이트해 주세요. iOS는 42번이 TestFlight에 공개된 이후 새 버전 게임에 참여할 수 있습니다.
+**2.0.0은 새 게임 진행 프로토콜을 사용하는 주 버전 업데이트입니다.** Oracle 서버의 새 대기방·게임 시작에는 최신 앱이 필요합니다. 함께 플레이하는 분들은 같은 최신 테스트 버전으로 업데이트해 주세요. iOS는 2.0.0 이상(42·43번)의 TestFlight 공개가 확인된 이후 새 게임에 참여할 수 있습니다.
 
 [릴리스 · 변경 사항 · 파일 검증](https://github.com/HahnGyuTak/CorsairKing-downloads/releases/latest)
 
-Android 42 APK SHA-256: `f69432bcd556cf3fea59f622b61788ba8e93296b54331644ae0917cc2a40a4a0`
+Android 43 APK SHA-256: `aab1f796df10ebd5907d68895af21cd5fd5a0364de798c1ee7b2e6df0e7dc902`
 
 ## 설치
 
 Android에서는 Download APK로 내려받은 파일을 열어 설치합니다. 기존 앱이 있으면 **삭제하지 말고 업데이트**로 설치하세요. 기존 공개 APK와 같은 서명을 사용합니다. 필요하면 파일을 연 브라우저 또는 파일 앱의 설치 권한을 허용합니다. Android 7.0 이상이며 64비트 ARM 또는 x86_64 기기가 필요합니다.
 
 iPhone·iPad에서는 Apple의 TestFlight 앱을 설치한 뒤 **TestFlight 참여** 링크를 여세요. 기기 등록은 필요하지 않습니다. iPad는 가로·세로 화면을 지원합니다. 정식 앱은 App Store에서 설치할 수 있으며 테스트 버전과 기능·제공 버전이 다를 수 있습니다.
+
+## 2.1.0 (43) 업데이트
+
+- 홈 메뉴에 **공지사항** 추가: 새 소식이 있으면 `!` 표시로 알려드리며, 공지 내용을 연 뒤에 읽음 상태를 저장합니다.
+- 기기·계정별로 공지 확인 상태를 유지하고, 수정된 공지는 다시 미확인으로 표시합니다.
+- 실제 App Store·Google Play의 새 정식 버전이 있을 때 홈에서 업데이트를 안내합니다. 테스트 버전보다 이전 정식 버전으로의 다운그레이드는 권하지 않습니다.
+- 기존 대기방·게임 진행과 호환되며, 공지 요청이 실패해도 게임 연결 흐름을 막지 않습니다.
 
 ## 2.0.0 (42) 업데이트
 
