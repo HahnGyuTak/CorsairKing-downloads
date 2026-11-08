@@ -2,17 +2,17 @@
 
 ## 앱 다운로드
 
-초대 코드로 친구들과 즐기는 2–7인 카드게임. 최신 테스트 버전 **2.1.0 (43)**를 Android에서 먼저 설치할 수 있습니다.
+초대 코드로 친구들과 즐기는 2–7인 카드게임. 최신 테스트 버전 **2.1.0 (43)**를 Android와 iPhone·iPad에서 설치할 수 있습니다.
 
 | 플랫폼 | 실제 공개 배포 | 설치 |
 | --- | --- | --- |
 | Android | **2.1.0 (43)** · APK | [**Download APK**](https://github.com/HahnGyuTak/CorsairKing-downloads/releases/download/v2.1.0-build43/corsair-king-2.1.0-43-preview-20261107.apk) |
-| iPhone · iPad | **1.0.0 (39)** · 공개 테스트 | [**TestFlight 참여**](https://testflight.apple.com/join/JmGv7aXB) |
+| iPhone · iPad | **2.1.0 (43)** · 공개 테스트 | [**TestFlight 참여**](https://testflight.apple.com/join/JmGv7aXB) |
 | iPhone · iPad | **1.0.0 (40)** · App Store 정식 앱 | [**App Store에서 다운로드**](https://apps.apple.com/kr/app/corsair-king/id6826480808) |
 
-iOS **2.1.0 (43)**와 **2.0.0 (42)**는 Apple 외부 베타 심사 대기 중이며, 아직 TestFlight에서 설치할 수 없습니다. 현재 실제 공개 TestFlight 버전은 **1.0.0 (39)**입니다. 위 TestFlight 공개 버전과 다르며, 실제 공개가 확인되면 안내를 갱신합니다. App Store 정식 앱은 이번 테스트 배포로 교체하지 않았습니다.
+iOS **2.1.0 (43)**는 Apple 외부 베타 승인을 거쳐 **2026년 11월 8일 TestFlight 공개**를 완료했습니다. TestFlight에서 Corsair King을 열고 **업데이트**를 눌러 주세요. App Store 정식 앱 **1.0.0 (40)**은 이번 테스트 배포로 교체하지 않았습니다.
 
-**2.0.0은 새 게임 진행 프로토콜을 사용하는 주 버전 업데이트입니다.** Oracle 서버의 새 대기방·게임 시작에는 최신 앱이 필요합니다. 함께 플레이하는 분들은 같은 최신 테스트 버전으로 업데이트해 주세요. iOS는 2.0.0 이상(42·43번)의 TestFlight 공개가 확인된 이후 새 게임에 참여할 수 있습니다.
+**2.0.0은 새 게임 진행 프로토콜을 사용하는 주 버전 업데이트입니다.** Oracle 서버의 새 대기방·게임 시작에는 최신 앱이 필요합니다. 함께 플레이하는 분들은 같은 최신 테스트 버전으로 업데이트해 주세요. 이전 1.0.0 앱을 사용 중이라면 최신 2.1.0 (43) 테스트 버전으로 업데이트한 뒤 새 게임에 참여해 주세요.
 
 [릴리스 · 변경 사항 · 파일 검증](https://github.com/HahnGyuTak/CorsairKing-downloads/releases/latest)
 
