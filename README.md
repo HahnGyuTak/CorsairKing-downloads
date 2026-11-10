@@ -2,27 +2,36 @@
 
 ## 앱 다운로드
 
-초대 코드로 친구들과 즐기는 2–7인 카드게임. 최신 테스트 버전 **2.1.0 (43)**를 Android와 iPhone·iPad에서 설치할 수 있습니다.
+초대 코드로 친구들과 즐기는 2–7인 카드게임. Android 최신 테스트 버전은 **2.2.0 (47)**입니다. iPhone·iPad의 실제 공개 버전은 아래 표에서 확인하세요.
 
 | 플랫폼 | 실제 공개 배포 | 설치 |
 | --- | --- | --- |
-| Android | **2.1.0 (43)** · APK | [**Download APK**](https://github.com/HahnGyuTak/CorsairKing-downloads/releases/download/v2.1.0-build43/corsair-king-2.1.0-43-preview-20261107.apk) |
+| Android | **2.2.0 (47)** · APK | [**Download APK**](https://github.com/HahnGyuTak/CorsairKing-downloads/releases/download/v2.2.0-build47/corsair-king-2.2.0-47-preview-20261111.apk) |
 | iPhone · iPad | **2.1.0 (43)** · 공개 테스트 | [**TestFlight 참여**](https://testflight.apple.com/join/JmGv7aXB) |
 | iPhone · iPad | **1.0.0 (40)** · App Store 정식 앱 | [**App Store에서 다운로드**](https://apps.apple.com/kr/app/corsair-king/id6826480808) |
 
-iOS **2.1.0 (43)**는 Apple 외부 베타 승인을 거쳐 **2026년 11월 8일 TestFlight 공개**를 완료했습니다. TestFlight에서 Corsair King을 열고 **업데이트**를 눌러 주세요. App Store 정식 앱 **1.0.0 (40)**은 이번 테스트 배포로 교체하지 않았습니다.
+Android **2.2.0 (47)**를 공개했습니다. iOS **2.2.0 (47)**는 TestFlight 공개 준비 중이며, 현재 설치할 수 있는 iOS 테스트 버전은 **2.1.0 (43)**입니다. TestFlight에서 Corsair King을 열고 **업데이트**를 눌러 주세요. App Store 정식 앱 **1.0.0 (40)**은 이번 테스트 배포로 교체하지 않았습니다.
 
-**2.0.0은 새 게임 진행 프로토콜을 사용하는 주 버전 업데이트입니다.** Oracle 서버의 새 대기방·게임 시작에는 최신 앱이 필요합니다. 함께 플레이하는 분들은 같은 최신 테스트 버전으로 업데이트해 주세요. 이전 1.0.0 앱을 사용 중이라면 최신 2.1.0 (43) 테스트 버전으로 업데이트한 뒤 새 게임에 참여해 주세요.
+**2.0.0은 새 게임 진행 프로토콜을 사용하는 주 버전 업데이트입니다.** Oracle 서버의 새 대기방·게임 시작에는 최신 앱이 필요합니다. 함께 플레이하는 분들은 같은 최신 테스트 버전으로 업데이트해 주세요. 이전 1.0.0 앱을 사용 중이라면 위 표에 표시된 플랫폼별 최신 테스트 버전으로 업데이트한 뒤 새 게임에 참여해 주세요.
 
 [릴리스 · 변경 사항 · 파일 검증](https://github.com/HahnGyuTak/CorsairKing-downloads/releases/latest)
 
-Android 43 APK SHA-256: `aab1f796df10ebd5907d68895af21cd5fd5a0364de798c1ee7b2e6df0e7dc902`
+Android 47 APK SHA-256: `56262e94ecb5689a5bc36c135ddc1f13daac48ad1870a68d23a09d10389000e3`
 
 ## 설치
 
 Android에서는 Download APK로 내려받은 파일을 열어 설치합니다. 기존 앱이 있으면 **삭제하지 말고 업데이트**로 설치하세요. 기존 공개 APK와 같은 서명을 사용합니다. 필요하면 파일을 연 브라우저 또는 파일 앱의 설치 권한을 허용합니다. Android 7.0 이상이며 64비트 ARM 또는 x86_64 기기가 필요합니다.
 
 iPhone·iPad에서는 Apple의 TestFlight 앱을 설치한 뒤 **TestFlight 참여** 링크를 여세요. 기기 등록은 필요하지 않습니다. iPad는 가로·세로 화면을 지원합니다. 정식 앱은 App Store에서 설치할 수 있으며 테스트 버전과 기능·제공 버전이 다를 수 있습니다.
+
+## 2.2.0 (47) 업데이트
+
+- Target/Wanted 포스터의 종이 펼침, 닉네임·Score·Bidding 여백을 개선했습니다.
+- 카드와 필드 요소가 타며 사라지는 종이 질감 연출을 개선했습니다.
+- 작은 화면의 선택 영역 스크롤과 iPad 가로 화면의 포스터·선택 버튼 배치를 개선했습니다.
+- 특수 예측 모드의 앱 표시 이름은 **Tendering**입니다. 게임 점수 정산 규칙은 같습니다.
+- 첫 연결·재연결 복구를 개선했고, 기존 계정을 유지한 업데이트를 지원합니다.
+- Android APK **104,779,833바이트**, 기존 공개 APK와 같은 서명·64비트 지원 범위입니다.
 
 ## 2.1.0 (43) 업데이트
 
