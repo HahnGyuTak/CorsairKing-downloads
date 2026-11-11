@@ -2,27 +2,36 @@
 
 ## 앱 다운로드
 
-초대 코드로 친구들과 즐기는 2–7인 카드게임. Android 최신 테스트 버전은 **2.2.0 (47)**입니다. iPhone·iPad의 실제 공개 버전은 아래 표에서 확인하세요.
+초대 코드로 친구들과 즐기는 2–7인 카드게임. Android 최신 테스트 버전은 **2.3.0 (52)**입니다. iPhone·iPad의 실제 공개 버전은 아래 표에서 확인하세요.
 
 | 플랫폼 | 실제 공개 배포 | 설치 |
 | --- | --- | --- |
-| Android | **2.2.0 (47)** · APK | [**Download APK**](https://github.com/HahnGyuTak/CorsairKing-downloads/releases/download/v2.2.0-build47/corsair-king-2.2.0-47-preview-20261111.apk) |
+| Android | **2.3.0 (52)** · APK | [**Download APK**](https://github.com/HahnGyuTak/CorsairKing-downloads/releases/download/v2.3.0-build52/corsair-king-2.3.0-52-preview-20261111.apk) |
 | iPhone · iPad | **2.1.0 (43)** · 공개 테스트 | [**TestFlight 참여**](https://testflight.apple.com/join/JmGv7aXB) |
 | iPhone · iPad | **1.0.0 (40)** · App Store 정식 앱 | [**App Store에서 다운로드**](https://apps.apple.com/kr/app/corsair-king/id6826480808) |
 
-Android **2.2.0 (47)**를 공개했습니다. iOS **2.2.0 (47)**는 업로드·테스트 그룹 연결을 마쳤고 Apple의 외부 베타 심사 대기 중입니다. 현재 설치할 수 있는 iOS 테스트 버전은 **2.1.0 (43)**입니다. TestFlight에서 Corsair King을 열고 **업데이트**를 눌러 주세요. App Store 정식 앱 **1.0.0 (40)**은 이번 테스트 배포로 교체하지 않았습니다.
+Android **2.3.0 (52)**를 공개했습니다. 현재 설치할 수 있는 iOS TestFlight 버전은 **2.1.0 (43)**입니다. iOS **2.2.0 (47)**는 Apple 외부 베타 심사 대기 중이며, **2.3.0 (52)**는 Apple 업로드와 테스트 그룹 연결을 마치고 외부 베타 심사 대기 중입니다. 플랫폼별 배포 시점이 다르므로 위 표의 실제 공개 버전을 확인해 주세요. App Store 정식 앱은 이번 테스트 배포로 교체하지 않았습니다.
 
 **2.0.0은 새 게임 진행 프로토콜을 사용하는 주 버전 업데이트입니다.** Oracle 서버의 새 대기방·게임 시작에는 최신 앱이 필요합니다. 함께 플레이하는 분들은 같은 최신 테스트 버전으로 업데이트해 주세요. 이전 1.0.0 앱을 사용 중이라면 위 표에 표시된 플랫폼별 최신 테스트 버전으로 업데이트한 뒤 새 게임에 참여해 주세요.
 
 [릴리스 · 변경 사항 · 파일 검증](https://github.com/HahnGyuTak/CorsairKing-downloads/releases/latest)
 
-Android 47 APK SHA-256: `56262e94ecb5689a5bc36c135ddc1f13daac48ad1870a68d23a09d10389000e3`
+Android 52 APK SHA-256: `65495f6f821ec9a12214c18b03914b527c1514168cdb1f5eafad0ae5a8de2076`
 
 ## 설치
 
 Android에서는 Download APK로 내려받은 파일을 열어 설치합니다. 기존 앱이 있으면 **삭제하지 말고 업데이트**로 설치하세요. 기존 공개 APK와 같은 서명을 사용합니다. 필요하면 파일을 연 브라우저 또는 파일 앱의 설치 권한을 허용합니다. Android 7.0 이상이며 64비트 ARM 또는 x86_64 기기가 필요합니다.
 
 iPhone·iPad에서는 Apple의 TestFlight 앱을 설치한 뒤 **TestFlight 참여** 링크를 여세요. 기기 등록은 필요하지 않습니다. iPad는 가로·세로 화면을 지원합니다. 정식 앱은 App Store에서 설치할 수 있으며 테스트 버전과 기능·제공 버전이 다를 수 있습니다.
+
+## 2.3.0 (52) 업데이트
+
+- 카드 뒤집기·제출, 특수카드 연출, 내 차례와 점수 변화 등에 **18종 효과음**을 추가했습니다. 종이가 타며 사라지는 연출은 무음으로 유지합니다.
+- 메뉴에서 **Sound effects**를 켜고 끌 수 있으며, 설정은 기기에 저장됩니다. 규칙 영상을 보는 동안 게임 효과음은 멈춥니다.
+- 규칙 창에서 **10개 챕터 영상**을 볼 수 있습니다. 영상은 인터넷으로 재생하므로 MP4 전체를 앱에 넣지 않습니다.
+- 효과음 반복 재생과 규칙 영상 전후의 소리 처리를 개선했습니다.
+- Android APK **107,458,242바이트**. 기존 앱을 삭제하지 말고 업데이트로 설치해 주세요.
+- Android 실기기에서 규칙 영상의 연속 재생·탐색을 확인해 주세요. 에뮬레이터에서는 실제 영상 표시·로컬 설명·재시도와 효과음 반복/설정 저장을 확인했습니다.
 
 ## 2.2.0 (47) 업데이트
 
