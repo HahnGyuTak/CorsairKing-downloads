@@ -2,27 +2,35 @@
 
 ## 앱 다운로드
 
-초대 코드로 친구들과 즐기는 2–7인 카드게임. Android 최신 테스트 버전은 **2.3.0 (52)**입니다. iPhone·iPad의 실제 공개 버전은 아래 표에서 확인하세요.
+초대 코드로 친구들과 즐기는 2–7인 카드게임. Android 최신 테스트 버전은 **2.3.1 (54)**입니다. iPhone·iPad의 실제 공개 버전은 아래 표에서 확인하세요.
 
 | 플랫폼 | 실제 공개 배포 | 설치 |
 | --- | --- | --- |
-| Android | **2.3.0 (52)** · APK | [**Download APK**](https://github.com/HahnGyuTak/CorsairKing-downloads/releases/download/v2.3.0-build52/corsair-king-2.3.0-52-preview-20261111.apk) |
-| iPhone · iPad | **2.1.0 (43)** · 공개 테스트 | [**TestFlight 참여**](https://testflight.apple.com/join/JmGv7aXB) |
+| Android | **2.3.1 (54)** · APK | [**Download APK**](https://github.com/HahnGyuTak/CorsairKing-downloads/releases/download/v2.3.1-build54/corsair-king-2.3.1-54-preview-20261119.apk) |
+| iPhone · iPad | **2.3.0 (52)** · 공개 테스트 | [**TestFlight 참여**](https://testflight.apple.com/join/JmGv7aXB) |
 | iPhone · iPad | **1.0.0 (40)** · App Store 정식 앱 | [**App Store에서 다운로드**](https://apps.apple.com/kr/app/corsair-king/id6826480808) |
 
-Android **2.3.0 (52)**를 공개했습니다. 현재 설치할 수 있는 iOS TestFlight 버전은 **2.1.0 (43)**입니다. iOS **2.2.0 (47)**는 Apple 외부 베타 심사 대기 중이며, **2.3.0 (52)**는 Apple 업로드와 테스트 그룹 연결을 마치고 외부 베타 심사 대기 중입니다. 플랫폼별 배포 시점이 다르므로 위 표의 실제 공개 버전을 확인해 주세요. App Store의 현재 공개 앱은 **1.0.0 (40)**입니다. 최신 **2.3.0 (52)**는 정식 App Store 심사에 제출했으며, 현재 **심사 대기 중**입니다. 정식 심사 상태와 TestFlight 공개 상태는 별개입니다.
+Android **2.3.1 (54)**를 공개했습니다. 현재 설치 가능한 iOS TestFlight 버전은 **2.3.0 (52)**이며, 새 **2.3.1 (54)**는 Apple 업로드·처리를 진행 중입니다. 정식 App Store 업데이트 **2.3.1 (53)**은 별도로 심사 제출을 준비 중입니다. 아직 새 iOS 버전이 공개된 것은 아닙니다. App Store의 현재 공개 앱은 **1.0.0 (40)**입니다.
 
 **2.0.0은 새 게임 진행 프로토콜을 사용하는 주 버전 업데이트입니다.** Oracle 서버의 새 대기방·게임 시작에는 최신 앱이 필요합니다. 함께 플레이하는 분들은 같은 최신 테스트 버전으로 업데이트해 주세요. 이전 1.0.0 앱을 사용 중이라면 위 표에 표시된 플랫폼별 최신 테스트 버전으로 업데이트한 뒤 새 게임에 참여해 주세요.
 
 [릴리스 · 변경 사항 · 파일 검증](https://github.com/HahnGyuTak/CorsairKing-downloads/releases/latest)
 
-Android 52 APK SHA-256: `65495f6f821ec9a12214c18b03914b527c1514168cdb1f5eafad0ae5a8de2076`
+Android 54 APK SHA-256: `c8dae8acba4970b29d750ceaa820c38d49626a4b9e3d130707dad9aa0dce9adc`
 
 ## 설치
 
 Android에서는 Download APK로 내려받은 파일을 열어 설치합니다. 기존 앱이 있으면 **삭제하지 말고 업데이트**로 설치하세요. 기존 공개 APK와 같은 서명을 사용합니다. 필요하면 파일을 연 브라우저 또는 파일 앱의 설치 권한을 허용합니다. Android 7.0 이상이며 64비트 ARM 또는 x86_64 기기가 필요합니다.
 
 iPhone·iPad에서는 Apple의 TestFlight 앱을 설치한 뒤 **TestFlight 참여** 링크를 여세요. 기기 등록은 필요하지 않습니다. iPad는 가로·세로 화면을 지원합니다. 정식 앱은 App Store에서 설치할 수 있으며 테스트 버전과 기능·제공 버전이 다를 수 있습니다.
+
+## 2.3.1 (54) 업데이트
+
+- 카드 배분·뒤집기·제출과 특수카드 화면 연출에 맞춰 효과음 타이밍을 개선했습니다.
+- 배분음은 짧게 한 번만 재생하고, 각 카드가 뒤집히는 순간에 뒤집기 소리를 재생합니다.
+- 효과음을 미리 준비해 재생 지연을 줄이고, 반복 재생과 규칙 영상 종료 후의 소리 복원을 개선했습니다.
+- 기존 게임 모드 선택이 활성화된 테스트 빌드입니다. 정식 심사 빌드는 따로 관리합니다.
+- Android APK **108,261,058바이트**. 기존 앱을 삭제하지 말고 업데이트로 설치하세요.
 
 ## 2.3.0 (52) 업데이트
 
